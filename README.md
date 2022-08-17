@@ -12,7 +12,7 @@ Bienvenido a mi perfil<br>
 
 <div>
 <h4>Soy Javier Bagatoli, estudio Ingeniería en sistemas de información y actualmente trabajo como desarrollador</h4>
-<p>He estudiado Java fullstack principalmente, pero con el tiempo me he acercad a programación web usando el stack MERN y MEAN.</p>
+<p>He estudiado Java fullstack principalmente, pero con el tiempo me he acercado a programación web usando el stack MERN y MEAN.</p>
 <p>Puede que mi carrera oficial haya comenzado hace cerca de un año o dos en los cuales programo todos los días algo o aprendo, pero puedo recordar que hace más de seis años comencé el camino en un motor de juegos viejos en donde solo conocía que existencia del <q>IF/ELSE IF/ELSE</q> y como yo digo comencé un palo y una piedra a construir un mundo, cuando encontré la formación adecuada solo ahonde más en este mundo.</p>
 </div>
 
